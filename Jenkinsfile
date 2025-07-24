@@ -10,7 +10,6 @@ pipeline{
                 }
             }
         }
-        
         stage("Code"){
             steps{
                 script{
